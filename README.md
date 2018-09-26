@@ -1,4 +1,4 @@
-GPSMapV2
+Almanac
 ========
 
-LocationClient vs LocationManager
+Android App
